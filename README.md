@@ -148,7 +148,7 @@ results/
 │   ├── report.html
 │   └── master_summary.csv
 ├── genotyping/
-│   ├── genus_level/           # TaxonKit results
+│   ├── genus_level/           
 │   └── species_level/         # MLST & FastANI results
 ├── quality_assessment/        # CheckM outputs
 └── taxonomy/                  # Kraken2 contamination reports
